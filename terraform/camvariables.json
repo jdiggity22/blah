@@ -18,7 +18,6 @@
       "name": "name",
       "type": "string",
       "description": "Name of virtual machine",
-      "default": "TeamN_ImportedVM",
       "hidden": false,
       "label": "Name",
       "secured": false,
