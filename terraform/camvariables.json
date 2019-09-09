@@ -30,7 +30,7 @@
       "name": "folder",
       "type": "string",
       "description": "Folder where the VM is located",
-      "default": "Target\TeamN",
+      "default": "Target\\TeamN",
       "hidden": false,
       "label": "Folder",
       "secured": false,
