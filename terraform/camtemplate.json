@@ -1,6 +1,6 @@
 {
   "name": "JW - Import existing VMware Virtual Machine",
-  "description": "This template can be used to import an existing virtual machine with a single disk into IBM Cloud Automation Manager.  It can be modified to import a VM with multiple disks.",
+  "description": "JW - Short description.",
   "version": "1.0",
   "imageUrl": "",
   "image": "",
